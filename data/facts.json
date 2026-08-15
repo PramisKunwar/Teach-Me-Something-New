@@ -1,0 +1,32 @@
+{
+    "scienceFacts": [
+        { "title":"Octopuses have three hearts" , "description":"" },
+        { "title":"Bananas are radioactive" , "description":"" },
+        { "title":"Honey never spoils" , "description":"" },
+        { "title":"A day on Venus is longer than its year" , "description":"" },
+        { "title":"Humans share 60% of their DNA with bananas" , "description":"" },
+        { "title":"Sharks predate trees" , "description":"" },
+        { "title":"Water can boil and freeze at the same time" , "description":"" },
+        { "title":"The Eiffel Tower grows in summer" , "description":"" },
+        { "title":"Your stomach gets a new lining every few days" , "description":"" },
+        { "title":"Lightning is five times hotter than the Sun's surafce" , "description":"" }
+    ],
+    "historicalEvents": [
+        { "title":"The shortest war in history lasted 38 minutes" , "description":"" },
+        { "title":"Cleopatra lived closer to the Moon landing than to the Pyramids" , "description":"" },
+        { "title":"Oxford is older than the Aztec Empire" , "description":"" },
+        { "title":"Rome hada population of 1 million in 100CE" , "description":"" },
+        { "title":"Napoleon was once attacked by rabbits" , "description":"" },
+        { "title":"The Great Walls of China tool over 2,000 years to build " , "description":"" },
+        { "title":"The first computer programmer was a woman" , "description":"" },
+        { "title":"The Ottoman Empire lasted 600 years" , "description":"" }
+    ],
+    "productivityTips": [
+        { "title":"Use the two-minute rule" , "description":"If a task takes less than two minutes, do it immediately. It clears mental clutter and prevents small tasks from piling up." },
+        { "title":"Time-block your calendar" , "description":"Assign specific hours to specific tasks. It replaces vague to-do lists with concrete commitments and defends deep work" },
+        { "title":"Follow the 90/20 rule" , "description":"Work in 90-minutes focused sprints, then take a 20-minute break. It aligns with the body's natural ultradian rhythm" },
+        { "title":"Write tomorrow's top 3 tonight" , "description":"Deciding priorities in advance removes morning friction and makes it easier to start oon real work instead of email." },
+        { "title":"Try the Pomodoro Technique " , "description":"Work for 25 minutes, break for 5. After four cycles, take a longer  break. It creates urgency and prevents burnout." }
+        
+    ]
+}
